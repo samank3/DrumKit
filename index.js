@@ -44,7 +44,7 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
       case "l":
         var audio = new Audio('sounds/kick-bass.mp3')
         audio.play();
-        break;
+        break; 
 
 
 
